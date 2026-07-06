@@ -7,3 +7,6 @@ yeni dal oluşturdum ve bu dosyada değişiklikler yapıyorum.
 bugün git ve github kullanımını öğreniyoruz.
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+denemedenemedenemedeneme
